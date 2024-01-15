@@ -5,5 +5,4 @@
 # mini44.asm dos com replication virus
 # tasm.exe mini44.asm
 # tlink host.obj
-
-<img src="image.png" alt="Hex Assembler"
+![Hex Assembler](image.png "Hex Assembler")
